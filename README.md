@@ -1,5 +1,5 @@
 # Resume
-# Spandana.T
+# Spandana.Talasamudram
 ### Personal Details
 - Name : Spandana.Talasamudram <br>
 - Mailid : spandanat12345@gmail.com <br>
@@ -7,14 +7,14 @@
 - Permenant Address : Reddika Street,Tekkali,Srikakulam Dist Andhra Pradesh <br>
 ### Educational Details
 **Degree**
-- College Name : _mother theresa degree college tekkali_<br>
+- College Name : _Mother Theresa Degree College Tekkali_<br>
 - Branch : Bsc(computers) <br>
 - Year : Final Year <br>
 - Percentage : 81% <br>
 - Address : Tekkali, Srikalulam Dist <br>
                                         
 **Intermediate**
-- College Name : _Gaytri junior college_<br>
+- College Name : _Gaytri Junior College_<br>
 - Branch : mpc <br>
 - Year of Pass : 2018 <br>
 - Percentage : 83% <br>
@@ -42,7 +42,8 @@ I want to become a "software developer"
 - patience
 - Dedication
 ### **Weaknesses**
--Taking on too much responsibility
+- Taking on too much responsibility
+- Being too detail-oriented
 ### **Certificates**
 - Basics Of Python
 - Ms office
